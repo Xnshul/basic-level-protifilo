@@ -78,7 +78,7 @@ header nav a{
     display: inline-block;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    font-size: large;
+    font-size:xx-large;
 }
 #intro .content .des{
     margin-top: 1.2em;
